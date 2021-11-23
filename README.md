@@ -1,2 +1,2 @@
 # ein-kleiner-test
-ein großer Test
+# Autoren: Tobias P., Tobias R., Thorben K., Felix K., Timon M., Hendrik A.
